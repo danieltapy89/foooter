@@ -40,7 +40,7 @@ function home() {
       </div>
       <div className="col-lg12 col-md-6 col-lg-3">
         <p className="h5 mb-3">Sport Accessories</p>
-        <a name="destinos"></a>
+        
         <div className="mb-2"><a className="text-white text-decoration-none" href="">Quienes Somos</a></div>
         <div className="mb-2"><a className="text-white text-decoration-none" href="">Sucursales</a></div>
         <div className="mb-2"><a className="text-white text-decoration-none" href="">Terminos y Condiciones</a></div>
@@ -49,7 +49,7 @@ function home() {
       </div>
       <div className="col-lg12 col-md-6 col-lg-3">
         <p className="h5 mb-3">¿Necesitas Ayuda?</p>
-        <a name="aerolineas"></a>
+        
         <div className="mb-2"><a className="text-white text-decoration-none" href="">Preguntas Frecuentes</a></div>
         <div className="mb-2"><a className="text-white text-decoration-none" href="">Formas de Envio</a></div>
         <div className="mb-2"><a className="text-white text-decoration-none" href="">Cambios</a></div>
@@ -58,7 +58,7 @@ function home() {
       </div>
       <div className="col-lg12 col-md-6 col-lg-3">
         <p className=" d-flex h5 mb-3">Contacto</p>
-        <a name="contacto"></a>
+        
         <div className='d-flex justify-content-between'>
         <div className="mb-2"><a id='in'><i className="bi bi-instagram"></i></a></div>
         <div className="mb-2"><a id='fb'><i className="bi bi-facebook"></i></a></div>
